@@ -1,5 +1,7 @@
-[{"id":1,"vendor_name":"BlogXS","sales":"89"},
-{"id":2,"vendor_name":"Browseblab","sales":"20"},
-{"id":3,"vendor_name":"Ooba","sales":"41"},
-{"id":4,"vendor_name":"Meedoo","sales":"150"},
-{"id":5,"vendor_name":"Skalith","sales":"307"}]
+[
+        { Value: 100, Label: "Google" },
+        { Value: 120, Label: "Yahoo" },
+        { Value: 90, Label: "Duckduckgo" },
+        { Value: 150, Label: "Bing" },
+        { Value: 37, Label: "Edge" }
+]
