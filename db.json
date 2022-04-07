@@ -1,1 +1,1 @@
-[ {Value: 100, Label: "Google"},{Value: 120, Label: "Yahoo"},{Value: 90, Label: "Duckduckgo"},{Value: 150, Label: "Bing"},{Value: 37, Label: "Edge"}]
+[ {"Value": 100, "Label": "Google"},{"Value": 120, "Label": "Yahoo"},{"Value": 90, "Label": "Duckduckgo"},{"Value": 150, "Label": "Bing"},{"Value": 37, "Label": "Edge"}]
